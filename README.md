@@ -1,6 +1,6 @@
 Sprintly — README (Planning Doc)
 What is this?
-(work in progress)
+
 A multi-user, Jira-inspired project & task management platform. One person can create a workspace, invite/manage team members, create projects, and track tasks through a drag-and-drop Kanban board — with an analytics dashboard showing team progress.
 
 Built specifically as a portfolio project to demonstrate React + REST API + full-stack skills for frontend/full-stack internship applications (Bright Money and similar FinTech/startup roles).
