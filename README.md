@@ -1,6 +1,6 @@
 Sprintly — README (Planning Doc for project )
 What is this?
-According to my vision
+
 
 A multi-user, Jira-inspired project & task management platform. One person can create a workspace, invite/manage team members, create projects, and track tasks through a drag-and-drop Kanban board — with an analytics dashboard showing team progress.
 
