@@ -1,4 +1,4 @@
-Sprintly — README (Planning Doc for project )
+Sprintly — README (Planning Doc for project wth daily updates )
 What is this?
 
 
